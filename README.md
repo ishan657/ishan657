@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I like to play Guitar**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Other links</h3>
 <p align="left">
 <a href="https://www.leetcode.com/xanny97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xanny97" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ishansa3n7e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ishansa3n7e" height="30" width="40" /></a>
