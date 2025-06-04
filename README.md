@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ishan Sawai</h1>
+<h1 align="center">Hi Everyone👋</h1>
 <h3 align="center">Hi, I’m Ishan Sawai — a student at the National Institute of Technology Agartala who loves to build cool things with code, explore new technologies, and solve real-world problems one line at a time.</h3>
 
 - 🔭 I’m currently working on **Java Spring Boot website**
