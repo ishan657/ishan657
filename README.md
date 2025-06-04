@@ -9,20 +9,33 @@
 
 ---
 
-### 🌐 Other Links:
-<p align="left">
-<a href="https://www.leetcode.com/xanny97" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xanny97" height="30" width="40" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/ishansa3n7e" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ishansa3n7e" height="30" width="40" />
-</a>
+<h3 align="center">📊 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishan657&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="Ishan's GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishan657&theme=radical&hide_border=true" alt="Ishan's GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan657&theme=radical&hide_border=true&layout=compact" alt="Ishan's Top Languages"/>
 </p>
 
 ---
 
-### 💻 Languages and Tools:
-<p align="left">
+<h3 align="center">🌐 Other Links:</h3>
+<p align="center">
+  <a href="https://www.leetcode.com/xanny97" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xanny97" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/ishansa3n7e" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ishansa3n7e" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">💻 Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
@@ -44,19 +57,10 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishan657&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="Ishan's GitHub Stats"/>
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=ishan657&icon=0&color=0" alt="Profile Visit Counter"/>
+  </a>
 </p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishan657&theme=radical&hide_border=true" alt="Ishan's GitHub Streak"/>
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan657&theme=radical&hide_border=true&layout=compact" alt="Ishan's Top Languages"/>
-</p>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=ishan657&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
