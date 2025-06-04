@@ -22,18 +22,6 @@
 
 ---
 
-<h3 align="center">🌐 Other Links:</h3>
-<p align="center">
-  <a href="https://www.leetcode.com/xanny97" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xanny97" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/ishansa3n7e" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ishansa3n7e" height="30" width="40" />
-  </a>
-</p>
-
----
-
 <h3 align="center">💻 Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
@@ -57,9 +45,13 @@
 
 ---
 
+<h3 align="center">🌐 Other Links:</h3>
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ishan657&icon=0&color=0" alt="Profile Visit Counter"/>
+  <a href="https://www.leetcode.com/xanny97" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xanny97" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/ishansa3n7e" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ishansa3n7e" height="30" width="40" />
   </a>
 </p>
 
